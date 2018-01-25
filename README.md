@@ -1,11 +1,10 @@
 # GIMME
 
-Basic database abstraction layer. I don't want to care what database I use.
-I just want to insert, update, delete and read from it!
+Database components holding connection details for multiple
+database clients.
 
-GIMME my data and store it. I don't want to care about anything else for now.
-
-Implements only a redis database connection so far.
+## Usable clients
+- Redis: Carmine
 
 ## Todo
 - mongoDB
