@@ -1,4 +1,4 @@
-(defproject com.github.meandor.gimme "0.1.0-SNAPSHOT"
+(defproject com.github.meandor.gimme "0.1.0"
   :description "Database config abstraction layer component"
   :url "https://github.com/meandor/gimme"
   :license {:name "Apache Version 2.0"
